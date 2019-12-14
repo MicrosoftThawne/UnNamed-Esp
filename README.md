@@ -10,6 +10,6 @@ This script does not work without the Drawing library used by Synapse and Protos
 - [x] Synapse X
 - [x] Protosmasher
 - [x] L0ki
-- [] Calamari 
-- [] Noobhaxx
-- [] Elysian
+- [ ] Calamari 
+- [ ] Noobhaxx
+- [ ] Elysian
